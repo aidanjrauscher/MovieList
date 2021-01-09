@@ -1,4 +1,8 @@
 # <h1> Overview 
+  
+ ## <h3> Motivation
+ I watch a *lot* of movies, so I wanted a way to keep track of the ones I've seen, and the ones I want to see. 
+  
 
 This is a 2-tier Python program that allows the user to keep track of movies in two seperate lists: a watch list and a seen list. All data is stored in a MySQL database. 
 
